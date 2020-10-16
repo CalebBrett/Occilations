@@ -6,3 +6,4 @@ The first level was made to test the mechanics of the game. The user controls th
 
 The following levels have the player move through a maze while moving the white pillars out of the way. The black pillars cannot be moved and the blue pillars move on thier own in a wave motion. In the picture below you can see these different types of pillars.
 ![Third level picture](ThirdLevel.png)
+
